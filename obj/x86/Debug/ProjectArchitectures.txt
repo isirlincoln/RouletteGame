@@ -1,0 +1,1 @@
+C:\Users\linco\source\repos\RouletteGame\RouletteGame.csproj;x86
